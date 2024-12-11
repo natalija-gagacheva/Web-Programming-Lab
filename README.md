@@ -1,4 +1,5 @@
 # Web Programming course
 
-Lab exercise for course "Веб програмирање" at FCSE-UKIM.
+Solved lab exercise for the course "Веб програмирање" at FCSE-UKIM.
+
 
